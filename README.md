@@ -1,5 +1,5 @@
 # Pneumonia-Infection
-Implementation of Pneumonia Infection diagnosis
+Implementation of Pneumonia Infection detection
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
